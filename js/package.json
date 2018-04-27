@@ -1,0 +1,11 @@
+{
+  "name": "lionshare",
+  "version": "1.0.0",
+  "description": "Node.js wrapper for the Lionshare API",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "author": "Abhinav Kasamsetty <abhinavkasamsetty@gmail.com> (http://github.com/abhinavk99)",
+  "license": "MIT"
+}
