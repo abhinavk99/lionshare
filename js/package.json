@@ -7,5 +7,8 @@
     "test": "mocha --reporter spec"
   },
   "author": "Abhinav Kasamsetty <abhinavkasamsetty@gmail.com> (http://github.com/abhinavk99)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.1.2"
+  }
 }
