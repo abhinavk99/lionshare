@@ -23,9 +23,9 @@ Usage
     # All responses are in json
 
     # Get historical prices for cryptocurrencies
-    prices = api.get_prices()
+    prices = lionshare.get_prices()
     # Optional period parameter (hour, day, week, month, year)
-    prices = api.get_prices('hour')
+    prices = lionshare.get_prices('hour')
 
     # Get current market info for cryptocurrencies
-    market_info = api.get_markets()
+    market_info = lionshare.get_markets()
